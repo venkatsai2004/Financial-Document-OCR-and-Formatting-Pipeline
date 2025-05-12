@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- SPDX-FileCopyrightText: 2014 Julien Pfefferkorn -->
 <!-- SPDX-FileCopyrightText: 2015 James R. Barlow -->
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
@@ -164,3 +165,6 @@ Some components of OCRmyPDF have other licenses, as indicated by standard SPDX l
 ## Disclaimer
 
 The software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+=======
+# Financial-Document-OCR-and-Formatting-Pipeline
+>>>>>>> 10de8af79a195065296e481982d35c2ed37be5d9
